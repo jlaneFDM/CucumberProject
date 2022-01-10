@@ -7,6 +7,8 @@ import io.cucumber.java.en.When;
 
 public class GoogleSearchSteps {
 	
+	
+	
 	@Given("browser is open")
 	public void browser_is_open() {
 	   System.out.println("browser open");
